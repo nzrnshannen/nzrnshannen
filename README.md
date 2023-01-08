@@ -11,7 +11,7 @@
 </div>
 <div>
   <h2>Projects</h2>
-   <p>More projects will be pushed soon (such as websites, programs rather than using the C language) as they are yet to be modified. </p>
+   <p>More projects will be pushed soon (such as websites, programs rather than using the C language) as they are yet to be modified. This GitHub account serves as my notes! :) </p>
 </div>
  
 <p align="center">
