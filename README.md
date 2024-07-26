@@ -5,8 +5,9 @@
   </p>
 </div>
 
+<p align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzrnshannen"/>
-
+</p>
 <!--
 <h2>Frameworks</h2>
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
