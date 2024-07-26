@@ -11,7 +11,7 @@
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzrnshannen)
 
 <h2>Languages</h2>
 
