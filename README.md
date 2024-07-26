@@ -1,4 +1,3 @@
-### :trollface:
 
 <p align="center">
   <img src="intro2.gif" alt="animated" height="400px"/>
@@ -11,7 +10,7 @@
 </div>
 <div>
   <h2>Projects</h2>
-   <p>More projects will be pushed soon (such as websites, programs rather than using the C language) as they are yet to be modified. This GitHub account serves as my notes mainly for Data Structures and Algorithms!</p>
+   <p>More projects will be pushed soon (such as websites, programs rather than using the C language) as they are yet to be modified. This GitHub account serves as my notes! </p>
 </div>
  
 <p align="center">
@@ -19,3 +18,13 @@
 </p>
 <br>
 <br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzrnshannen"/>
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
