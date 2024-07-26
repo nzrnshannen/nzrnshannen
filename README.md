@@ -12,7 +12,6 @@
 
 <h2>Languages</h2>
 <p align="center">
-  <img src="https://your-image-hosting-url/e847f007653d406146a41c9ec6b034d5.gif" alt="animated" />
   <br>
   <br>
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
