@@ -10,9 +10,8 @@
   </p>
 </div>
 
-<p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzrnshannen)
-<p>
+
 
 
 <!-- <h2>Frameworks</h2>
