@@ -1,6 +1,7 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://your-image-hosting-url/intro2.gif" alt="animated" height="400px"/>
 </p>
+-->
 
 <div>
   <h2>About Me</h2>
