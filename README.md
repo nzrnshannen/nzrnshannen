@@ -1,5 +1,5 @@
 # About Me
-I'm Shannen T. Nazareno, a 3rd-year BS Information Systems college student from University of San Carlos. I am an aspiring fullstack developer and/or data analyst. Coding plays a huge part in my life. Aside from being able to think 'outside-the-box' and propose such solutions, it gives me a sense of control. Back in 2018-2019, I was introduced to the concepts of web development (only a few). Yet, I want to excel more in this field as a college student in this institution.
+I'm Shannen T. Nazareno, a BS Information Systems college student from University of San Carlos. I am an aspiring fullstack developer and/or data analyst. Coding plays a huge part in my life. Aside from being able to think 'outside-the-box' and propose such solutions, it gives me a sense of control. Back in 2018-2019, I was introduced to the concepts of web development (only a few). Yet, I want to excel more in this field as a college student in this institution.
 
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzrnshannen"/>
