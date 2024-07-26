@@ -10,6 +10,9 @@
   </p>
 </div>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
+
 <h2>Languages</h2>
 
 <div>
