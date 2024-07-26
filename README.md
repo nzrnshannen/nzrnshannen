@@ -12,6 +12,7 @@
 
 <h2>Languages</h2>
 
+<div>
 <p align="center">
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -24,7 +25,7 @@
   ![Visual Basic](https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white)
   ![M (Power Query)](https://img.shields.io/badge/M(PowerQuery)-217346?style=for-the-badge&logo=power-bi&logoColor=white)
 </p>
-
+</div>
 <!-- <h2>Frameworks</h2>
 <p align="center">
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
