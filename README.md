@@ -28,7 +28,7 @@
 </p>
 <br>
 <br>
-<h2>Frameworks</h2>
+<!-- <h2>Frameworks</h2>
 <p align="center">
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -56,4 +56,4 @@
   ![GitKraken](https://img.shields.io/badge/GitKraken-000000?style=for-the-badge&logo=gitkraken&logoColor=white)
 </p>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzrnshannen"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzrnshannen"/> -->
