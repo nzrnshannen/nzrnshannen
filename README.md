@@ -5,10 +5,7 @@
   </p>
 </div>
 
-<p align = "center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzrnshannen)
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzrnshannen"/>
 
 <!-- <h2>Frameworks</h2>
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
