@@ -14,7 +14,7 @@
 
 
 
- <h2>Frameworks</h2>
+<!-- <h2>Frameworks</h2>
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -37,5 +37,5 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
   ![GitKraken](https://img.shields.io/badge/GitKraken-000000?style=for-the-badge&logo=gitkraken&logoColor=white)
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzrnshannen"/> -->
+<br> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzrnshannen"/>  -->
