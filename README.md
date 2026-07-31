@@ -30,3 +30,8 @@ I'm Shannen T. Nazareno, a BS Information Systems college student from Universit
   ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
   ![GitKraken](https://img.shields.io/badge/GitKraken-000000?style=for-the-badge&logo=gitkraken&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzrnshannen&layout=compact&langs_count=10" alt="Top Languages" />
+</p>
+
