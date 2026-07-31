@@ -41,7 +41,6 @@ I'm Shannen T. Nazareno, a BS Information Systems college student from Universit
 ![GitKraken](https://img.shields.io/badge/GitKraken-000000?style=for-the-badge&logo=gitkraken&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
 # GitHub Stats
 <p align="center">
