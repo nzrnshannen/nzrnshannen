@@ -1,9 +1,6 @@
 # About Me
-I'm Shannen T. Nazareno, a BS Information Systems college student from University of San Carlos. I am currently interested in data analysis, data science, data engineering, quality assurance (QA), and web development. Coding plays a huge part in my life. Aside from being able to think 'outside-the-box' and propose such solutions, it gives me a sense of control. I am open to learn new things and my inquisitiveness leads me to learn new things. 
+I'm Shannen T. Nazareno, a BS Information Systems college student from University of San Carlos. I am currently interested in data analysis, data science, data engineering, quality assurance (QA), and web development. Coding plays a huge part in my life. Aside from being able to think 'outside-the-box' and propose such solutions, it gives me a sense of control. I am open to learning, and my natural curiosity drives me to discover new things.
 
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzrnshannen&layout=compact&langs_count=10"/>
-</p>
 
 # Languages
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
