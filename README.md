@@ -44,9 +44,6 @@ I'm Shannen T. Nazareno, a BS Information Systems college student from Universit
 
 # GitHub Stats 
 <p align="center">
-
   <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=nzrnshannen&layout=compact&langs_count=10&theme=dark&hide_border=true" alt="Top Languages" height="165" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nzrnshannen&theme=dark&hide_border=true&utc=true&v=1" alt="GitHub Streak" height="165" />
-
-</p> 
+  <img src="https://streak-stats.demolab.com/?user=nzrnshannen&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
